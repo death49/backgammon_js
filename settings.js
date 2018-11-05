@@ -1,0 +1,19 @@
+const SCREEN_WIDTH = 1400;
+const SCREEN_HEIGHT = 1100;
+
+const BOARD_X = 100;
+const BOARD_Y = 100;
+
+const CHECKER_RADIUS = 30;
+const CHECKER_DIAMETER = 2 * CHECKER_RADIUS;
+const CHECK_OFFSET = 4;
+
+const BOARD_WIDTH = CHECKER_DIAMETER * (6 * 2 + 1);
+const BOARD_HEIGHT = CHECKER_DIAMETER * ((5 * 2 + 1));
+
+const STATS_WIDTH = 800;
+const STATS_HEIGHT= 100;
+
+const DICE_WIDTH = 60;
+
+const TRIANGLES_NUM = 24;
